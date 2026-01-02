@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Bogomil 👋
 
-<!--
-**bgml-blgv/bgml-blgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer with interest in building practical projects and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- C#
+- Java
+- Python
+- SQL (Oracle)
+- HTML, CSS, JavaScript
+
+---
+
+## 📂 Featured Projects
+- 🐾 **Veterinary Clinic Database** – Oracle SQL database with tables, triggers, indexes and sample queries
+- 📐 **Geometry Calculator** – C# console application
+- 🐶 **Can My Dog Eat It?** – Python-based project
+
+---
+
+## 🎯 Goals
+- Gain real-world experience through internships
+- Improve backend and database skills
+- Build more real-life projects
+
+---
+
+## 📫 Contact
+- Email: bogomilblagoevoff3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bogomil-blagoev/
+- GitHub: https://github.com/bgml-blgv
